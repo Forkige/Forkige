@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Forkige/Elective-Laboratories/refs/heads/main/Laboratory%202/banner/Banner.png" alt="Banner Alt Text">
+</p>
 # 💫 About Me:
 🔭 I’m currently working on My Personal Branding<br><br>👨‍💻 All of my projects are available at https://github.com/Forkige<br><br>💬 Ask me about Anyting<br><br>📫 How to reach me jbacala@addu.edu.ph<br><br>⚡ Fun fact I can move my ear
 
